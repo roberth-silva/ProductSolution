@@ -1,4 +1,4 @@
-﻿# Projeto .NET 8 Web API - product Crus
+﻿# Projeto .NET 8 Web API - Product CRUD
 
 Este projeto é uma aplicação ASP.NET Core 8 com SQLite embutido, oferecendo uma API que pode ser facilmente testada através do Swagger. 
 A base de dados está armazenada localmente no diretório Db/, utilizando o SQLite como banco de dados embutido.
@@ -50,7 +50,7 @@ Testes Unitários: O projeto inclui testes unitários que podem ser executados p
 
 3. **Banco de dados e migrations**:
    A base de dados está localizada dentro do diretorio Db do projeto Product.Api
-   A base de dados SQLite já está inclusao ao projeo, no entanto, pode ser criada novamente ao executar manualmente a migração com os seguintes comandos dentro da raiz do projeto Product.Api:
+   A base de dados SQLite já está inclusa ao projeo, no entanto, pode ser criada novamente ao executar manualmente a migração com os seguintes comandos dentro da raiz do projeto Product.Api:
 
    ```bash
    dotnet ef migrations add InitialCreate
