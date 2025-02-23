@@ -90,6 +90,10 @@ Testes Unitários: O projeto inclui testes unitários que podem ser executados p
 * PUT /api/product/{id}: Atualiza um produto existente.
 * DELETE /api/product/{id}: Deleta um produto.
 
+![Image](https://github.com/user-attachments/assets/6263d69d-e2a7-40c8-b6e3-cf4a641d1326)
+![Image](https://github.com/user-attachments/assets/8030e4de-1cdf-4e76-a487-4b4818c6de9e)
+![Image](https://github.com/user-attachments/assets/a39f7254-e6ee-44a5-8cc0-1e13b1eff1fa)
+
 ---
 
 
